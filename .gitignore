@@ -1,0 +1,64 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+.settings/
+.vscode
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Maven
+target
+/.mvn/
+/mvnw
+/mvnw.bat
+mvnw
+mvnw.cmd
+
+# Extensions
+*#
+*.iml
+*.ipr
+*.iws
+*.jar
+*.sw?
+*~
+.#*
+.*.md.html
+
+# testFiles
+*pendingRequest.xls
+*processedRequest.xls
+
+publish\.properties
+
+.factorypath
+/bin/
